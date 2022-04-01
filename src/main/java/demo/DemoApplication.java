@@ -10,6 +10,7 @@ public class DemoApplication {
 		SpringApplication.run(DemoApplication.class, args);
 		System.out.println("Master");
 		System.out.println("Now we're on branch develop");
+		System.out.println("DEVELOP 2");
 
 	}
 
